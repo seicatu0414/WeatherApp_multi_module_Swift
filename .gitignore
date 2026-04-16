@@ -1,0 +1,22 @@
+.DS_Store
+
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+
+# Build products
+DerivedData/
+build/
+.build/
+
+# Swift Package Manager
+Packages/.build/
+Packages/**/.build/
+
+# Test and profiling output
+*.xccovarchive
+*.xcresult
+
+# Dependency managers
+Carthage/Build/
+Pods/
